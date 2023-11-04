@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout<<"***********WELCOME TO ATM*************";
+    cout<<"***********WELCOME TO ATM************";
     int depo_money,money,wd_money,total;
     string name;
     string act_num;
@@ -52,7 +52,7 @@ int main()
            cout<<"CANCEL";
            cout<<"\nTHANK YOU ^-^ ";
            cout<<"HAVE A NICE DAY!!!!"; 
-           exit(0);
+           exit(0);   //terminates program
         }
     }
 }
