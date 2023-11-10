@@ -45,11 +45,11 @@ int main()
            cin>>wd_money;
            cout<<"\n MONEY WITHDRAW";
            cout<<"total balance: "<<total-wd_money<<endl;
-           
            break;
            
            default:
-           cout<<"CANCEL";
+           
+            cout<<"CANCEL";
            cout<<"\nTHANK YOU ^-^ ";
            cout<<"HAVE A NICE DAY!!!!"; 
            exit(0);   //terminates program
